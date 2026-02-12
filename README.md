@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Vitor!
 
-<!--
-**VitorH12/VitorH12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tecnologias e Ferramentas
+Aqui estão as tecnologias que utilizo nos meus projetos:
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Minhas Estatísticas
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app" />
+</p>
+
+---
